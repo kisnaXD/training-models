@@ -1,0 +1,10 @@
+{
+  "generated_at_utc": "2026-03-13T01:11:10.899910+00:00",
+  "base_rows_before": 59077,
+  "rows_fetched_cl_el_raw": 2746,
+  "base_rows_after": 61823,
+  "net_rows_added": 2746,
+  "cl_rows_added": 1954,
+  "el_rows_added": 792,
+  "log_file": "Soccer\\soccer_data\\uefa_merge_log.csv"
+}

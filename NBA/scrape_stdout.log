@@ -1,0 +1,73 @@
+========================================================================
+NBA DATA SCRAPER (NBA ONLY)
+========================================================================
+[CONFIG] seasons: 1996-2025
+[CONFIG] output : C:\Users\Krishna Gera\Desktop\UFC Model\nba_data
+[SAVE] teams.csv -> 30 teams
+[SAVE] franchise_history.csv -> 1,687 rows
+[OK] 1996-97 | Regular Season -> 2,378 team-game rows
+[OK] 1996-97 | Playoffs       -> 144 team-game rows
+[OK] 1997-98 | Regular Season -> 2,378 team-game rows
+[OK] 1997-98 | Playoffs       -> 142 team-game rows
+[OK] 1998-99 | Regular Season -> 1,450 team-game rows
+[OK] 1998-99 | Playoffs       -> 132 team-game rows
+[OK] 1999-00 | Regular Season -> 2,378 team-game rows
+[OK] 1999-00 | Playoffs       -> 150 team-game rows
+[OK] 2000-01 | Regular Season -> 2,378 team-game rows
+[OK] 2000-01 | Playoffs       -> 142 team-game rows
+[OK] 2001-02 | Regular Season -> 2,378 team-game rows
+[OK] 2001-02 | Playoffs       -> 142 team-game rows
+[OK] 2002-03 | Regular Season -> 2,378 team-game rows
+[OK] 2002-03 | Playoffs       -> 176 team-game rows
+[OK] 2003-04 | Regular Season -> 2,378 team-game rows
+[OK] 2003-04 | Playoffs       -> 164 team-game rows
+[OK] 2004-05 | Regular Season -> 2,460 team-game rows
+[OK] 2004-05 | Playoffs       -> 168 team-game rows
+[OK] 2005-06 | Regular Season -> 2,460 team-game rows
+[WARN] LeagueGameLog 2005-06 Playoffs failed (attempt 1/6): HTTPSConnectionPool(host='stats.nba.com', port=443): Read timed out. (read timeout=30)
+[OK] 2005-06 | Playoffs       -> 178 team-game rows
+[OK] 2006-07 | Regular Season -> 2,460 team-game rows
+[OK] 2006-07 | Playoffs       -> 158 team-game rows
+[OK] 2007-08 | Regular Season -> 2,460 team-game rows
+[OK] 2007-08 | Playoffs       -> 172 team-game rows
+[OK] 2008-09 | Regular Season -> 2,460 team-game rows
+[OK] 2008-09 | Playoffs       -> 170 team-game rows
+[OK] 2009-10 | Regular Season -> 2,460 team-game rows
+[OK] 2009-10 | Playoffs       -> 164 team-game rows
+[OK] 2010-11 | Regular Season -> 2,460 team-game rows
+[OK] 2010-11 | Playoffs       -> 162 team-game rows
+[OK] 2011-12 | Regular Season -> 1,980 team-game rows
+[OK] 2011-12 | Playoffs       -> 168 team-game rows
+[OK] 2012-13 | Regular Season -> 2,460 team-game rows
+[OK] 2012-13 | Playoffs       -> 170 team-game rows
+[OK] 2013-14 | Regular Season -> 2,460 team-game rows
+[OK] 2013-14 | Playoffs       -> 178 team-game rows
+[OK] 2014-15 | Regular Season -> 2,460 team-game rows
+[OK] 2014-15 | Playoffs       -> 162 team-game rows
+[OK] 2015-16 | Regular Season -> 2,460 team-game rows
+[OK] 2015-16 | Playoffs       -> 172 team-game rows
+[OK] 2016-17 | Regular Season -> 2,460 team-game rows
+[OK] 2016-17 | Playoffs       -> 158 team-game rows
+[OK] 2017-18 | Regular Season -> 2,460 team-game rows
+[OK] 2017-18 | Playoffs       -> 164 team-game rows
+[OK] 2018-19 | Regular Season -> 2,460 team-game rows
+[OK] 2018-19 | Playoffs       -> 164 team-game rows
+[OK] 2019-20 | Regular Season -> 2,118 team-game rows
+[OK] 2019-20 | Playoffs       -> 166 team-game rows
+[OK] 2020-21 | Regular Season -> 2,160 team-game rows
+[OK] 2020-21 | Playoffs       -> 170 team-game rows
+[OK] 2021-22 | Regular Season -> 2,460 team-game rows
+[OK] 2021-22 | Playoffs       -> 174 team-game rows
+[OK] 2022-23 | Regular Season -> 2,460 team-game rows
+[OK] 2022-23 | Playoffs       -> 168 team-game rows
+[OK] 2023-24 | Regular Season -> 2,460 team-game rows
+[OK] 2023-24 | Playoffs       -> 164 team-game rows
+[OK] 2024-25 | Regular Season -> 2,460 team-game rows
+[OK] 2024-25 | Playoffs       -> 168 team-game rows
+[OK] 2025-26 | Regular Season -> 1,960 team-game rows
+[SAVE] raw_team_game_logs.csv -> 75,304 team-game rows
+[SAVE] games.csv -> 37,652 games
+[SAVE] metadata.json
+========================================================================
+DONE
+========================================================================

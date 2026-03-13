@@ -1,0 +1,28 @@
+{
+  "generated_at_utc": "2026-03-12T19:37:52.507269+00:00",
+  "seasons": {
+    "start": 2010,
+    "end": 2025,
+    "count": 16
+  },
+  "competitions": {
+    "E0": "Premier League",
+    "SP1": "La Liga",
+    "I1": "Serie A",
+    "D1": "Bundesliga",
+    "F1": "Ligue 1",
+    "N1": "Eredivisie",
+    "P1": "Primeira Liga",
+    "B1": "Belgian Pro League",
+    "SC0": "Scottish Premiership",
+    "T1": "Turkish Super Lig",
+    "CL": "UEFA Champions League",
+    "EL": "UEFA Europa League",
+    "EC": "UEFA Conference League"
+  },
+  "rows": {
+    "matches": 59077,
+    "scrape_log": 208,
+    "successful_competition_season_pairs": 176
+  }
+}

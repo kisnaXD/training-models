@@ -1,0 +1,28 @@
+{
+  "generated_at_utc": "2026-03-12T14:28:11.224000+00:00",
+  "league": "NBA",
+  "league_id": "00",
+  "seasons": {
+    "start": 2024,
+    "end": 2024,
+    "labels": [
+      "2024-25"
+    ]
+  },
+  "season_types": [
+    "Regular Season",
+    "Playoffs"
+  ],
+  "row_counts": {
+    "teams": 30,
+    "franchise_history": 1687,
+    "raw_team_game_logs": 2628,
+    "games": 1314
+  },
+  "files": [
+    "teams.csv",
+    "franchise_history.csv",
+    "raw_team_game_logs.csv",
+    "games.csv"
+  ]
+}
